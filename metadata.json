@@ -1,0 +1,5 @@
+{
+  "name": "Historical Empathy Companion",
+  "description": "An interactive history learning platform where students chat with historical figures. Features an AI Orchestrator that ensures historical accuracy, age-appropriateness, and generates real-time teacher insights.",
+  "requestFramePermissions": []
+}
