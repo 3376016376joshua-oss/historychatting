@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { PersonaProfile } from '../types.ts';
+import { PersonaProfile } from '../types';
 import { RefreshCw, MapPin, Award, User, Quote } from 'lucide-react';
 
 interface SidebarProps {

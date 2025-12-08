@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { ChatMessage, ConnectionStatus } from '../types.ts';
+import { ChatMessage, ConnectionStatus } from '../types';
 import { Send, Loader2 } from 'lucide-react';
 
 interface ChatInterfaceProps {

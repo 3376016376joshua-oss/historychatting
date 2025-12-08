@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SimulationSettings } from '../types.ts';
+import { SimulationSettings } from '../types';
 import { User, Play } from 'lucide-react';
 
 interface SettingsModalProps {
