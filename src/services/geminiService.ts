@@ -1,7 +1,11 @@
+// trigger rebuild
+
+
 import { GoogleGenAI, Type, Schema } from "@google/genai";
 import { OrchestratorResponse, SimulationSettings, ChatMessage, PersonaProfile } from "../types.ts";
 
 // Define the schema for the structured output
+
 const orchestratorResponseSchema: Schema = {
   type: Type.OBJECT,
   properties: {
